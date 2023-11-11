@@ -1,3 +1,13 @@
+![HTML](https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white)
+![CSS](https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
+![React](https://img.shields.io/badge/React-61DAFB?style=flat&logo=react&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
+![VSCode](https://img.shields.io/badge/VS_Code-007ACC?style=flat&logo=visual-studio-code&logoColor=white)
+<div align="center " >
+  <img src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhwVMfU0fGKdx4IZTIK5TK0i33jlF8lq6SzggCNY5CGABLyDX6lKU-rYQceECSMggK3WJb9TwGyT9CC95amsOq0ZE9IZHD_zsFn-VUx1YIV6KJvQwNLUPHXvNEwLqAEQ8NILcN4oLd9obYs_FfWdEIw2fsui51krQODBdRx_is9ddrlqP8lHhLXKKCeicp7/s320/github-header-image.png" width="100%">
+</div>
+
 <h1 align="center">Hi 👋, I'm Jasraj Chouhan</h1>
 <h3 align="center">A passionate fullstack developer from India</h3>
 
