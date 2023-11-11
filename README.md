@@ -1,6 +1,8 @@
 <h1 align="center">Hi 👋, I'm Jasraj Chouhan</h1>
 <h3 align="center">A passionate fullstack developer from India</h3>
 
+<img  align="right" width="400" alt="coding-photo" src="https://www.google.com/imgres?imgurl=https%3A%2F%2Ft4.ftcdn.net%2Fjpg%2F01%2F35%2F92%2F85%2F360_F_135928597_xU5EzKq6vpOeXPX5vsbI48zfVVkSRlrF.jpg&tbnid=Krpy16CZI6PaVM&vet=12ahUKEwiT58XMtLyCAxUa3DgGHZu2CxYQMygAegQIARBQ..i&imgrefurl=https%3A%2F%2Fstock.adobe.com%2Fsearch%3Fk%3Dprogrammer%2Bcartoon&docid=8YZqRq27QWN2GM&w=381&h=360&q=animated%20coding%20images&ved=2ahUKEwiT58XMtLyCAxUa3DgGHZu2CxYQMygAegQIARBQ" />
+
 - 🔭 I’m currently working on [Realtor Real state React App](https://github.com/JasrajChouhan/Real-State-React-App)
 
 - 🌱 I’m currently learning **React Js , Firebase**
