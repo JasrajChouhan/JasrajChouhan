@@ -41,3 +41,7 @@
 
 <h3 align="left">Support:</h3>
 <p><a href="https://www.buymeacoffee.com/isjasrajchouhan"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="isjasrajchouhan" /></a></p><br><br>
+
+![JasrajChouhan's Stats](https://github-readme-stats.vercel.app/api?username=JasrajChouhan&theme=vue-dark&show_icons=true&hide_border=true&count_private=true)
+![JasrajChouhan's Streak](https://github-readme-streak-stats.herokuapp.com/?user=JasrajChouhan&theme=vue-dark&hide_border=true)
+![JasrajChouhan's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=JasrajChouhan&theme=vue-dark&show_icons=true&hide_border=true&layout=compact)
