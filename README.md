@@ -27,6 +27,10 @@
 
 ### 📈 GitHub Stats
 
+
+  [![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=JasrajChouhan&bg_color=292929&color=b9b1b8&line=11c054&point=ffffff&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+
+
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=JasrajChouhan&theme=vue-dark&show_icons=true&hide_border=true&count_private=true" alt="Jasraj's GitHub Stats" />
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=JasrajChouhan&theme=vue-dark&hide_border=true" alt="Jasraj's Streak Stats" />
